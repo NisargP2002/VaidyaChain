@@ -1,0 +1,28 @@
+Patient object:
+
+Attributes: aname, age, gender, contact details, allergies, medical history, current medications, emergency contact details, insurance information.
+Methods: getters and setters for attributes.
+
+
+Doctor object:
+
+Attributes: name, specialization, contact details, availability.
+Methods: getters and setters for attributes.
+
+
+Appointment object:
+
+Attributes: patient object, doctor object, appointment date and time, reason for appointment, prescription (if any).
+Methods: getters and setters for attributes.
+
+
+Medical history object:
+
+Attributes: patient object, past illnesses, surgeries, medications, allergies, family medical history.
+Methods: getters and setters for attributes.
+
+
+Allergy object:
+
+Attributes: patient object, type of allergy, severity, treatment.
+Methods: getters and setters for attributes.
